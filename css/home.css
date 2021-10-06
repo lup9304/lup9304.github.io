@@ -20,9 +20,9 @@
     transition: all .3s;
 }
 .author {
-    background: #ecf0f1;
+    background: #eff0f1;
     text-align: center;
-    height:10vh;
+    height:8vh;
 }
 .head {
     display: inline-block;
