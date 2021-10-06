@@ -4,6 +4,7 @@
   position: relative;
   /*  background:url('../images/page_background.jpg') no-repeat 5% 100%;*/
   background:url('../images/page_background.jpg') no-repeat center;
+  margin: auto;
 }
 .navi-button {
     font-size: .8rem;
