@@ -22,12 +22,12 @@
 .author {
     background: #ecf0f1;
     text-align: center;
-    height:30vh;
+    height:10vh;
 }
 .head {
     display: inline-block;
     width: 130px;
-    height: 50px;
+    height: 130px;
     border-radius: 50%;
     padding: 3px;
     background: #fff;
