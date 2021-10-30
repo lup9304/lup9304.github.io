@@ -14,7 +14,8 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io"
+        "imuncle" : "https://imuncle.github.io",
+        "很早以前做的主页" : "https://goofegg.github.io/www/index.html"
     },
     "icons": {
         "Github" : {
@@ -22,6 +23,18 @@
             "href" : "https://github.com/imuncle/gitblog",
             "hidden_img" : null,
             "width" : 0
+        },
+        "Wechart": {
+            "icon_src": "images/wechart.svg",
+            "href": null,
+            "hidden_img": "images/wechart-qrcode.jpg",
+            "width": 130
+        },
+        "QQ": {
+            "icon_src": "images/QQ.svg",
+            "href": "tencent://message/?uin=50671296",
+            "hidden_img": null,
+            "width": 0
         }
     }
 }
