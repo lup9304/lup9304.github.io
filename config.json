@@ -14,9 +14,11 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io",
         "很早的主页" : "https://goofegg.github.io/www/index.html",
         "博客备份" : "https://gissue.github.io/"
+        "imuncle" : "https://imuncle.github.io",
+        "青青个人博客" : "tjcblog.com",
+        "添加友链" : "https://gissue.github.io/"
     },
     "icons": {
         "Github" : {
@@ -27,7 +29,7 @@
         },
         "Wechart": {
             "icon_src": "images/wechart.svg",
-            "href": null,
+            "href": "https://goofegg.github.io/images/wechart-qrcode.jpg",
             "hidden_img": "images/wechart-qrcode.jpg",
             "width": 130
         },
