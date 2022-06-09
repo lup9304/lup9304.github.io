@@ -11,7 +11,8 @@
         "state": "open"
     },
     "menu": {
-        "首页":"./"
+        "首页":"./",
+        "WorldCrisis":"https://github.com/goofegg/goofegg.github.io/issues?q=is%3Aopen+is%3Aissue+label%3AWorldCrisis"
     },
     "friends": {
         "很早的主页" : "https://goofegg.github.io/www/index.html",
