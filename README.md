@@ -1,33 +1,33 @@
-写在前面，致敬伟大的码农们以及网站建设者们：
+写在前面，致敬伟大的码农们以及网站建设者们（Write in the front, pay tribute to the great code farmers and site builders）：
 
-[码农之歌](https://goofegg.github.io/content.html?id=141)
+[码农之歌(Song of code farmers)](https://goofegg.github.io/content.html?id=141)
 ```
-那是一双怎样神奇的手
-在拨弄这个世界的琴弦
-那劈里啪啦作响的键盘
-在发出他们弹奏的琴声
-这听起来很普通的声音
-在不断向远深邃的绵延
-伴随着他们大开的脑洞
-回荡着这个世界的空灵
-当你我都在酣酣的沉睡
-他们的意志依然在飘荡
-那零壹排列的丝线交缠
-轻抚又渗透静谧的繁华
-他们这时心思缜密绵软
-我们入梦时酣恬的陪伴
-直到我们又慢慢地苏醒
-继续对我们问候的温暖
-有时他们意志驱动铿锵
-把我们推向高飞的云天
-远致火星以及太阳系外
-他们的意志也延伸弥漫
-他们向外可以无限延伸
-意志向内同样也能深潜
-万种生灵的遗传和密码
-也只需他们动一动手指
-上帝也是最伟大的码农
-也同在编写我们的生命
+那是一双怎样神奇的手	What magical hands were they
+在拨弄这个世界的琴弦	Plucking at the strings of the world
+那劈里啪啦作响的键盘	That crackling keyboard
+在发出他们弹奏的琴声	Making the music they play
+这听起来很普通的声音	It sounds very common
+在不断向远深邃的绵延	In the continuous deep stretching
+伴随着他们大开的脑洞	With their imaginations wide open
+回荡着这个世界的空灵	Echoing the emptiness of the world
+当你我都在酣酣的沉睡	When you and I are asleep
+他们的意志依然在飘荡	Their will is still floating
+那零壹排列的丝线交缠	The scattered threads of silk were tangled
+轻抚又渗透静谧的繁华	Stroke and permeate the quiet prosperity
+他们这时心思缜密绵软	They were thoughtful and tender
+我们入梦时酣恬的陪伴	The company of our dreams
+直到我们又慢慢地苏醒	Until we slowly wake up again
+继续对我们问候的温暖	The warmth that continues to greet us
+有时他们意志驱动铿锵	Sometimes they are driven by strong will
+把我们推向高飞的云天	Lift us up into the sky
+远致火星以及太阳系外	To Mars and beyond
+他们的意志也延伸弥漫	Their will extends and diffuses
+他们向外可以无限延伸	They can go out to infinity
+意志向内同样也能深潜	The will can also dive inward
+万种生灵的遗传和密码	The genetics and code of all creatures
+也只需他们动一动手指	They just need to move their fingers
+上帝也是最伟大的码农	God is also the greatest coder
+也同在编写我们的生命	It is also writing our lives
 2022.5.2
 ```
 后面是gitblog的原文档内容，让我能方便的建博写博，致敬：
