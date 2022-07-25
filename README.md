@@ -27,7 +27,7 @@
 万种生灵的遗传和密码	The genetics and code of all creatures
 也只需他们动一动手指	They just need to move their fingers
 上帝也是最伟大的码农	God is also the greatest coder
-也同在编写我们的生命	It is also writing our lives
+也同在编写我们的生命	He is also writing our lives
 2022.5.2
 ```
 后面是gitblog的原文档内容，让我能方便的建博写博，致敬：
