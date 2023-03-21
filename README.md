@@ -32,7 +32,7 @@ goofegg
 也同在编写我们的生命	He is also writing our lives
 2022.5.2
 ```
-本博使用gitblog和[gissue](https://gissue.github.io)搭建，gissue完美实现博客的备份，期待依赖gissue备份文件重建博客的工具。
+本博使用[gitblog](https://github.com/imuncle/gitblog)和[gissue](https://gissue.github.io)搭建，gissue完美实现博客的备份，期待依赖gissue备份文件重建博客的工具。
 后面是gitblog的原文档内容，让我能方便的建博写博，致敬：
 # gitblog
 这是一个极轻量级的，基于git issue的个人博客模板，非常适合于想在GitHub pages上搭建个人博客的人。
