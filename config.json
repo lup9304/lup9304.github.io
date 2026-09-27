@@ -11,7 +11,7 @@
         "state": "open"
     },
     "menu": {
-        "首页":"./",
+        "首页" : "./",
         "博客备份" : "https://lup9304.github.io/gissue/index.html",
         "CSDN" : "https://blog.csdn.net/weixin_43767046",
         "我的书房" : "https://fliphtml5.com/bookcase/vznof/",
